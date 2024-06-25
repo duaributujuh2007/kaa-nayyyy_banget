@@ -1,4 +1,3 @@
-# kaa-nayyyy_banget
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,25 +38,7 @@
 	<h1>HALLO KAA NAYYYYY</h1>
 	<p>BUATT KAA NAYYYYYY</p>
 	<p>YANG CANTIK BAIKKK DAN KUATTTT ♡︎</p>
-	<img src="love2.jpg"width="200px" width="200px">
-	<p>aku mau bilang sesuatu buatt kaa nayyyy (๑>◡<๑)</p>
-		<a href="alvin2.html">pencet 1 kali lagii</a>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>MAKASIH UDAH DI BUKA</title>
-</head>
-<body>
-	<h1>KAA NAYYYY AKU MAU BILANG</h1>
-	<p>makasih kaa nayyyyy apa yang kaa nayyyyy kasih ke aku (˶ᵔ ᵕ ᵔ˶) maap aku belum bisa ngasih apa apa ke kaa nayyyyy (´•︵•`) aku ngerasa maluu harus nya akuu yang ngasih ke kaa nayyyy maap kaa nayyyyy</p>
-		<a href="badak3.html">lanjutan</a>
-</body>
-</html>
-<!DOCTYPE html>
+	<img src="love2.jpg"wi<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -75,6 +56,21 @@
 	<p>aku punya pertanyaa buatt kaa nayyy</p>
 	<p>apa bedanya kaa nayyy sama benda?mau tau jawabannyaa pencet lagii</p>
 	<a href="alvin3.html">jawban</a>
+</body>
+</html>dth=
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>MAKASIH UDAH DI BUKA</title>
+</head>
+<body>
+	<h1>KAA NAYYYY AKU MAU BILANG</h1>
+	<p>makasih kaa nayyyyy apa yang kaa nayyyyy kasih ke aku (˶ᵔ ᵕ ᵔ˶) maap aku belum bisa ngasih apa apa ke kaa nayyyyy (´•︵•`) aku ngerasa maluu harus nya akuu yang ngasih ke kaa nayyyy maap kaa nayyyyy</p>
+		<a href="badak3.html">lanjutan</a>
 </body>
 </html>
 <!DOCTYPE html>
